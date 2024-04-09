@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rushikesh Autade</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Ahilyanagar</h3>
 <img align="riight"alt="coding"width="400"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuB_gsth2ujq8Fpo1-0gJOfXDum4-lQQgLeCGvguRa8w&s"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushiautade4545&label=Profile%20views&color=0e75b6&style=flat" alt="rushiautade4545" /> </p>
 
